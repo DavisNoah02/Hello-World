@@ -1,2 +1,2 @@
-Into to github.
-This is Hello world in Javascript
+~ Intro to github.	                                                 
+~ This is Hello world in Javascript
